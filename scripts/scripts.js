@@ -1,4 +1,4 @@
-// scripts.js
+
 window.addEventListener("load", () => {
   const loading = document.querySelector(".loading");
 
